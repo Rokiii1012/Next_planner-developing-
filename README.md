@@ -26,7 +26,7 @@ Back-end: minimum jerk
 
 Collision avoidance: Embodied footprint
 
-others: developing
+Others: developing
 
 
 
