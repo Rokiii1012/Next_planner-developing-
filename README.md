@@ -11,12 +11,12 @@ This project is built based on ROS2. Based on the differential flat  characteris
 - Run Simulations（developing）
 - Updates
 
-### 1. Quick Start
+## 1. Quick Start
 
 
 developing
 
-### 2. Algorithms
+## 2. Algorithms
 
 
 
@@ -30,18 +30,18 @@ others: developing
 
 
 
-### 3. Setup and Config
+## 3. Setup and Config
 
 developing
 
 
 
-### 4. Run Simulations
+## 4. Run Simulations
 
 developing
 
 
 
-### 5. Updates
+## 5. Updates
 
 Now the front-end and back-end algorithms have been completed, and the  front-end has been embedded in the finite-state machine decision  framework. Subsequently, collision avoidance algorithms and constraints  of car-like robots will be introduced.
