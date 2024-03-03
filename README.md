@@ -1,6 +1,5 @@
 # Next-Planner
 
-------
 
 This project is built based on ROS2. Based on the differential flat  characteristics of the kinematics model of A vehicle-like robot, the  finite-state machine is used as the decision-making framework, and A*,  minimum jerk and collision avoidance algorithms are integrated to  realize motion planning in a known environment.
 
