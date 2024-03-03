@@ -18,7 +18,7 @@ developing
 
 ### 2. Algorithms
 
-------
+
 
 Front-end: A star
 
@@ -28,19 +28,19 @@ Collision avoidance: Embodied footprint
 
 others: developing
 
-------
+
 
 ### 3. Setup and Config
 
 developing
 
-------
+
 
 ### 4. Run Simulations
 
 developing
 
-------
+
 
 ### 5. Updates
 
